@@ -1,0 +1,39 @@
+.btn {
+    background-color: #1EFA2D;
+    border-style: none;
+    border-color: #0E7515;
+    color:#0E7515;
+    font-weight: 500;
+    text-shadow: 0px 0px 2px #FFFFFF;
+    box-shadow: 0px 0px 2px;
+    padding: 10px;
+    vertical-align: middle;
+    outline: none;
+}
+.btn:hover {
+	background-color: #A2F090;
+	box-shadow: 0px 0px 2px #19CF25;
+	border-color: #19CF25;
+}
+.sbtn {
+    background-color: #FF9670;
+    border-style: none;
+    border-color: #D13100;
+    color:#6E4130;
+    font-weight: 500;
+    text-shadow: 0px 0px 2px #FFFFFF;
+    box-shadow: 0px 0px 2px;
+    padding: 10px;
+    vertical-align: middle;
+    outline: none;
+}
+.sbtn:hover {
+	background-color: #FFBEA6;
+	box-shadow: 0px 0px 2px #E03500;
+	border-color: #E03500;
+}
+.dinput {
+	line-height: 150%;
+	font-size: 16pt;
+	vertical-align: middle;
+}
