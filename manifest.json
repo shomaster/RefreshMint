@@ -24,5 +24,13 @@
 	],
 	"background": {
 		"scripts": ["RefreshMint_state.js"]
+	},
+	"commands": {
+		"toggleAutoRefresh": {
+			"suggested_key": {
+				"default": "Alt+Shift+R"
+			},
+			"description": "Auto toggle default refresh for current tab."
+		}
 	}
 }
